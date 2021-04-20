@@ -22,3 +22,11 @@ Middleware: Meant to happen in the middle of the Web Request Response Cycle. It 
 WRRC - Web Request Response Cycle
 
 CI CD: Continuos Intergration and Continuous Deployment
+
+https://jasontaisey-server-deploy-prod.herokuapp.com/
+
+https://github.com/JTaisey389/server-deployment-practice.md/pulls?q=is%3Apr+is%3Aclosed
+
+https://dashboard.heroku.com/apps/jasontaisey-server-deploy-prod/deploy/github
+
+https://dashboard.heroku.com/apps/jasontaisey-server-deploy-dev/deploy/github
